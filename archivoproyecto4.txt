@@ -12,7 +12,7 @@ mi quinta  linea 5
 
 mi sexta   linea 6
 
-mi quinta  linea 6
-
 mi septima linea 7
+
+
 
